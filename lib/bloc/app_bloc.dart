@@ -8,8 +8,8 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-class AppBLoc extends Bloc<AppEvent, AppState> {
-  AppBLoc()
+class AppBloc extends Bloc<AppEvent, AppState> {
+  AppBloc()
       : super(
           const AppStateLoggedOut(isLoading: false),
         ) {

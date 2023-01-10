@@ -1,1 +1,4 @@
 flutter/ephemeral
+firebase_options.dart
+generated_plugin_registrant.dart
+android/app/google-services.json

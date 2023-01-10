@@ -1,16 +1,9 @@
 # bloc_firebase_gallery
 
-A new Flutter project.
+A simulator of a photo gallery using Firebase Storage for data persistence and BLOC library for state management.
 
-## Getting Started
+## References
 
-This project is a starting point for a Flutter application.
+This project was implemented by following Vandad Nahavandipoor Bloc course available on youtube 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[https://www.youtube.com/watch?v=Mn254cnduOY&list=PL6yRaaP0WPkUf-ff1OX99DVSL1cynLHxO&index=10]
